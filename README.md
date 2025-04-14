@@ -40,17 +40,7 @@ Here’s a well-rounded assessment for a junior frontend developer. It includes 
    - Use JavaScript to handle adding, deleting, and marking tasks.
 ---
 
-#### **Part 3: CSS Flexbox/Grid Layout (20 points)**
-
-4. **Task 4:** Create a responsive two-column layout using **Flexbox or Grid**.
-   - The layout should have:
-     - A **sidebar** on the left.
-     - A **main content** area on the right.
-   - On smaller screens, the layout should adjust to a single column with the sidebar on top and the content below.
-
----
-
-#### **Part 4: JavaScript Event Handling (15 points)**
+#### **Part 3: JavaScript Event Handling (15 points)**
 
 5. **Task 5:** Create a button that, when clicked, changes the text of a paragraph to "Hello, [user's name]!".  
    - The name should be entered into an input field.
