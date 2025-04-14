@@ -3,35 +3,17 @@
 Here’s a well-rounded assessment for a junior frontend developer. It includes HTML, CSS, JavaScript, and basic React tasks, and a bonus section to gauge additional skills.
 
 ---
-#### **Part 1: HTML & CSS (25 points)**
 
-1. **Task 1:** Create a simple webpage with the following structure:  
-   - A **navigation bar** with links (Home, About, Contact)  
-   - A **header** section with a title  
-   - A **main content section** with a paragraph and an image  
-   - A **footer** with copyright information
+#### **Part 1: JavaScript Fundamentals (30 points)**
 
-   **Requirements:**
-   - The navigation bar should be styled to be horizontally aligned.
-   - Use semantic HTML tags (header, main, footer, nav, etc.).
-   - Apply basic styling (e.g., colors, margins, padding, fonts).
-   - Make the layout **responsive** (use media queries to adjust for mobile view).
-
-   **Bonus (5 points):**  
-   Use Flexbox or Grid to layout the navigation bar and footer.
-
----
-
-#### **Part 2: JavaScript Fundamentals (30 points)**
-
-2. **Task 2:** Write a JavaScript function that takes an array of numbers as an input and returns the sum of all **even** numbers.
+1. **Task 1:** Write a JavaScript function that takes an array of numbers as an input and returns the sum of all **even** numbers.
 
    Example:  
    ```javascript
    sumEvenNumbers([1, 2, 3, 4, 5]); // Returns 6 (2 + 4)
    ```
 
-3. **Task 3:** Implement a simple **To-Do List** where:
+2. **Task 2:** Implement a simple **To-Do List** where:
    - Users can add tasks.
    - Users can delete tasks.
    - Users can mark tasks as "completed" by clicking on them.
@@ -40,7 +22,7 @@ Here’s a well-rounded assessment for a junior frontend developer. It includes 
    - Use JavaScript to handle adding, deleting, and marking tasks.
 ---
 
-#### **Part 3: JavaScript Event Handling (15 points)**
+#### **Part 2: JavaScript Event Handling (15 points)**
 
 5. **Task 5:** Create a button that, when clicked, changes the text of a paragraph to "Hello, [user's name]!".  
    - The name should be entered into an input field.
