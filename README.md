@@ -24,7 +24,7 @@ Here’s a well-rounded assessment for a junior frontend developer. It includes 
 
 #### **Part 2: JavaScript Event Handling (15 points)**
 
-5. **Task 5:** Create a button that, when clicked, changes the text of a paragraph to "Hello, [user's name]!".  
+3. **Task 3:** Create a button that, when clicked, changes the text of a paragraph to "Hello, [user's name]!".  
    - The name should be entered into an input field.
    - When the user clicks the button, the name entered should be displayed in the paragraph.
 ---
